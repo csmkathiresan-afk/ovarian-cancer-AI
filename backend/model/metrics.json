@@ -1,0 +1,10 @@
+{
+  "available": true,
+  "dataset": "synthetic_research_prototype",
+  "n_samples": 2500,
+  "accuracy": 0.796,
+  "precision": 0.7083333333333334,
+  "recall": 0.2786885245901639,
+  "f1": 0.4,
+  "note": "Metrics come from a held-out split of the synthetic research dataset used to bootstrap this prototype. They are not clinical validation results."
+}

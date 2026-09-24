@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Reference schematic scan visualization">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1d4d6e"/>
+      <stop offset="100%" stop-color="#07111c"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#g)"/>
+  <text x="40" y="40" fill="#8aa4bf" font-family="Segoe UI, sans-serif" font-size="18">Reference Scan Visualization</text>
+  <ellipse cx="400" cy="270" rx="210" ry="150" fill="none" stroke="#3ec8ff" stroke-width="3"/>
+  <ellipse cx="330" cy="260" rx="55" ry="70" fill="#0d2a40" stroke="#7ad7ff" stroke-width="2"/>
+  <ellipse cx="470" cy="260" rx="55" ry="70" fill="#0d2a40" stroke="#7ad7ff" stroke-width="2"/>
+  <path d="M385 260 C400 200,400 200,415 260" fill="none" stroke="#4f8cff" stroke-width="3"/>
+  <text x="40" y="490" fill="#8aa4bf" font-family="Segoe UI, sans-serif" font-size="14">Demonstration graphic only. Not used by the DNN.</text>
+</svg>
